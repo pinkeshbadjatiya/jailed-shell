@@ -8,6 +8,11 @@ Isolated shell for jailing purposes.
     Release:  16.04  
     Codename: xenial  
 
+    $ lscpu
+    Architecture:          x86_64
+    CPU op-mode(s):        32-bit, 64-bit
+    Byte Order:            Little Endian
+
     $ uname -r
     4.4.0-22-generic
 
@@ -17,4 +22,5 @@ Isolated shell for jailing purposes.
 - `ls` : ls (GNU coreutils) 8.25
 - `cd`
 - `pwd`
+- `vim`
 - (all the other builtin commands)
