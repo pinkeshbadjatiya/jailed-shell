@@ -20,7 +20,7 @@ Isolated shell for jailing purposes.
 
 - `bash` : GNU bash, version 4.3.42(1)-release (x86_64-pc-linux-gnu)
 - `ls` : ls (GNU coreutils) 8.25
+- `vim` : VIM - Vi IMproved 7.4 (2013 Aug 10, compiled Apr 08 2016 11:38:28) - Included patches: 1-1689
 - `cd`
 - `pwd`
-- `vim`
 - (all the other builtin commands)
